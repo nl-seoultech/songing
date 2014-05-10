@@ -5,7 +5,7 @@ install_requires = [
 ]
 
 test_requires = [
-        'pytest >= 2.3.5'
+    'pytest >= 2.3.5'
 ]
 
 setup(name='songing',
